@@ -46,8 +46,8 @@ This project is intended to be used as a reference for a database project. You c
 
 Contributions to this project are welcome. If you have a suggestion for improvement, please create a pull request.
 
+## Author
 
-
-This project was created by Mohammad Othman and is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was created by [Mohammad Othman](https://github.com/OthmanMohammad) and is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
